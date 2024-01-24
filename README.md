@@ -11,33 +11,8 @@
 
 ## NPM Install
 ``` bash
-$ npm install react
-```
-```
-$ npm install react-dom
-```
-```
-$ npm install react-router-dom
-```
-```
-$ npm install @material-tailwind/react
-```
-```
-$ npm install @testing-library/jest-dom
-```
-```
-$ npm install @testing-library/react
-```
-```
-$ npm install react material-symbols
-```
-```
-$ npm install react-use-cart
-```
-```
-$ npm install web-vitals
-``` bash
-$ npm install react-scripts
+$ npm install react/ react-dom/ react-router-dom/ @material-tailwind/react/ @testing-library/jest-dom/ @testing-library/react/ react material-symbols/ react-use-cart /web-vitals/ react-scripts
+
 ```
 
 ## Table of Contents
