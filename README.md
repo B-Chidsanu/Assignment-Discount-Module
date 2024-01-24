@@ -4,7 +4,7 @@
 
 ## Description
 
-(git clone https://github.com/your-username/your-project.git)
+(https://github.com/B-Chidsanu/Assignment-Discount-Module)
 
 ## Table of Contents
 
