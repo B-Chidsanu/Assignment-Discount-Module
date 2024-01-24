@@ -10,7 +10,7 @@
 (https://github.com/B-Chidsanu/Assignment-Discount-Module)
 
 ## NPM Install
-```
+``` bash
 $ npm install react
 $ npm install react-dom
 $ npm install react-router-dom
