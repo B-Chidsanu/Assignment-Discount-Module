@@ -6,14 +6,18 @@
 - This Assignment use React, tailwind css
 
 ## Clone Repository
-```bash
+``` bash
 https://github.com/B-Chidsanu/Assignment-Discount-Module
 ```
 
 ## NPM Install
 ``` bash
-$ npm install react/ react-dom/ react-router-dom/ @material-tailwind/react/ @testing-library/jest-dom/ @testing-library/react/ react material-symbols/ react-use-cart /web-vitals/ react-scripts
+npm install react/ react-dom/ react-router-dom/ @material-tailwind/react/ @testing-library/jest-dom/ @testing-library/react/ react material-symbols/ react-use-cart /web-vitals/ react-scripts
 
+```
+## Run
+``` bash
+npm start
 ```
 
 ## Table of Contents
