@@ -12,6 +12,7 @@
 ## NPM Install
 ``` bash
 $ npm install react
+```
 $ npm install react-dom
 $ npm install react-router-dom
 $ npm install @material-tailwind/react
@@ -20,6 +21,7 @@ $ npm install @testing-library/react
 $ npm install react material-symbols
 $ npm install react-use-cart
 $ npm install web-vitals
+``` bash
 $ npm install react-scripts
 ```
 
