@@ -6,8 +6,9 @@
 - This Assignment use React, tailwind css
 
 ## Clone Repository
-
-(https://github.com/B-Chidsanu/Assignment-Discount-Module)
+```bash
+https://github.com/B-Chidsanu/Assignment-Discount-Module
+```
 
 ## NPM Install
 ``` bash
